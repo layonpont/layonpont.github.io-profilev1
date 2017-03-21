@@ -125,33 +125,30 @@ nav li a {
     background-color: #222;
     color: white;
     margin-top: 30px;
-    padding-top: 30px;
+    padding-top: 100px;
+    
 }
+
 
 .bottom-footer {
     border-top: 1px solid #b2b2b2;
     margin-top: 10px;
     padding-top: 10px;
+    padding-bottom: 70px;
     color: #b2b2b2;
 }
 
+
 .footer-nav {
-    text-align: right;
+    padding-top: 50px;
+    text-align: left;
     list-style: none;
 }
 
 .footer-nav li {
     display: inline;
     padding: 0px 10px;
+    font-size: 8px;
 }
-.footer-nav li:before {
-    content: "|"
-
-}
-
-
-
-
-
 
 
